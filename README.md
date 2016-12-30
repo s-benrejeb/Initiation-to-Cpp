@@ -1,3 +1,3 @@
 # Initiation-to-Cpp
 
-The first document is the assignment sheet that was provided in class
+The first pdf document is the assignment sheet that was provided in class
